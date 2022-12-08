@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'GitHubwithOryx-presutti'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A486880BCE74BC7B388DE29D0C458D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B3C647E16894586880111A2D9FA7774 }}
           package: .
